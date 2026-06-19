@@ -1,6 +1,8 @@
 
 Question 1:https://onlinegdb.com/X4mzWw7YU
 
+video explanation :-https://drive.google.com/file/d/1XX5MCB2vTzG345tgGO0fMScQGeESihqq/view?usp=drive_link
+
 
 
 # Railway Reservation System (C++)
