@@ -1,6 +1,8 @@
 
 Question 1:https://onlinegdb.com/X4mzWw7YU
 
+video explanation :-https://drive.google.com/file/d/1RKbKe03CAY6X7Xpy-ihYVhYXDVC9Y5h6/view?usp=drive_link
+
 # Railway Reservation System (C++)
 
 ## Project Description
